@@ -7,7 +7,7 @@
 - Cоздание паролей разной сложности
 - Генерация определённого количества паролей
 
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8049a3e1-96f0-425d-9742-ada7c408c7c0" /> В будущем
+# <i class="fa-solid fa-gears"></i> В будущем
 
 - Создание wordlist для пентеста
 - Создание паролей по любой маске
